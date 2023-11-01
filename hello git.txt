@@ -4,3 +4,4 @@ ikinci commit
 
 yeni branch acilacak (backend)
 
+yeni branch açildi
