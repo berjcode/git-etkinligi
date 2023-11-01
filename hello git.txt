@@ -8,3 +8,5 @@ yeni branch açildi
 
 masterdan devam ediyoruz ileride design branchi acilacak 
 ve master ile MERGE edilecek 
+
+dallanma daha iyi anlasilsin diye mastera bir commit
