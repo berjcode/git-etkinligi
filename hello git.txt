@@ -12,3 +12,5 @@ ve master ile MERGE edilecek
 dallanma daha iyi anlasilsin diye mastera bir commit
 
 designe commit sonrası masterı hatırlıyoruz o da unutulmuştu :D
+
+hazır masterdayken designle masterı MERGE etmeyelim mi
