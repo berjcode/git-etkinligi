@@ -1,2 +1,4 @@
 merhaba git etkinliğine hos geldiniz
 
+ikinci commit
+
