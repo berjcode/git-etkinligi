@@ -22,3 +22,5 @@ hazır masterdayken designle masterı MERGE etmeyelim mi
 designe commit sonrası masterı hatırlıyoruz o da unutulmuştu :D
 
 mastera merge sonrası ekleme yaptık
+
+şimdi githuba projemizi atacağız :)
