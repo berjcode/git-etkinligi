@@ -9,10 +9,7 @@ yeni branch açildi
 masterdan devam ediyoruz ileride design branchi acilacak 
 ve master ile MERGE edilecek 
 
-desing branchi açıldı ve bu design branchinin ilk commiti
-
 dallanma daha iyi anlasilsin diye mastera bir commit
-
 
 designe commit sonrası masterı hatırlıyoruz o da unutulmuştu :D
 
@@ -22,3 +19,6 @@ branch adının yanında ki çember HEAD nerede olduğumuzu gösteriyor
 designdeyiz bu da design branchinin commiti olacak
 
 hazır masterdayken designle masterı MERGE etmeyelim mi
+designe commit sonrası masterı hatırlıyoruz o da unutulmuştu :D
+
+mastera merge sonrası ekleme yaptık
