@@ -2,3 +2,5 @@ merhaba git etkinliğine hos geldiniz
 
 ikinci commit
 
+yeni branch acilacak (backend)
+
