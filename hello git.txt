@@ -5,3 +5,6 @@ ikinci commit
 yeni branch acilacak (backend)
 
 yeni branch açildi
+
+masterdan devam ediyoruz ileride design branchi acilacak 
+ve master ile MERGE edilecek 
