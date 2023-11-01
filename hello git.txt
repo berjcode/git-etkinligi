@@ -10,3 +10,8 @@ masterdan devam ediyoruz ileride design branchi acilacak
 ve master ile MERGE edilecek 
 
 desing branchi açılacak ve bu design branchinin ilk commiti
+
+mastera geri geçildi mavi hat ve 
+branch adının yanında ki çember HEAD nerede olduğumuzu gösteriyor
+designdeyiz bu da design branchinin commiti olacak
+
